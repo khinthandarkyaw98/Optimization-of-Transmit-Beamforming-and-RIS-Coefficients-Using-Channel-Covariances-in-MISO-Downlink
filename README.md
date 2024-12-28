@@ -1,6 +1,6 @@
 # Neural Network Based Optimization of Transmit Beamforming and RIS Coefficients Using Channel Covariances in MISO Downlink
 
-Khin Thandar Kyaw, Wiroonsak Santipacha, Kritsada Mamat, Kamol Kaemarungsi, Kazuhiko Fukawa, Lunchakorn Wuttisittikulkij
+<b>Authors</b>: Khin Thandar Kyaw, Wiroonsak Santipacha, Kritsada Mamat, Kamol Kaemarungsi, Kazuhiko Fukawa, Lunchakorn Wuttisittikulkij
 
 ## Citation
 
