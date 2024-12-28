@@ -5,9 +5,7 @@ Khin Thandar Kyaw, Wiroonsak Santipacha, Kritsada Mamat, Kamol Kaemarungsi, Kazu
 ## Citation
 
 > [!IMPORTANT]
-> Manuscript accepted! 
-> Manuscript Number: AEUE-D-24-02543R1  
-> Publishing is being processed!
+> Manuscript Number: AEUE-D-24-02543R1 has been accepted.
 
 ---
 
