@@ -45,5 +45,4 @@ Please refer the [paper](https://doi.org/10.1016/j.aeue.2024.155656) for impleme
     <img src="https://github.com/khinthandarkyaw98/Optimization-of-Transmit-Beamforming-and-RIS-Coefficients-Using-Channel-Covariances-in-MISO-Downlink/blob/main/Plots/fig8.png" alt="fig8" style="width:400px; height:350px">
     <img src="https://github.com/khinthandarkyaw98/Optimization-of-Transmit-Beamforming-and-RIS-Coefficients-Using-Channel-Covariances-in-MISO-Downlink/blob/main/Plots/fig9.png" alt="fig9">
     <img src="https://github.com/khinthandarkyaw98/Optimization-of-Transmit-Beamforming-and-RIS-Coefficients-Using-Channel-Covariances-in-MISO-Downlink/blob/main/Plots/Bar_Time.png" alt="time-diff">
-    <img src="https://github.com/khinthandarkyaw98/Optimization-of-Transmit-Beamforming-and-RIS-Coefficients-Using-Channel-Covariances-in-MISO-Downlink/blob/main/Plots/table.png" alt="table">
 </div>
