@@ -4,8 +4,25 @@
 
 ## Citation
 
-> [!IMPORTANT]
-> Manuscript Number: AEUE-D-24-02543R1 has been accepted.
+```
+@article{KYAW2025155656,
+title = {Neural network based optimization of transmit beamforming and RIS coefficients using channel covariances in MISO downlink},
+journal = {AEU - International Journal of Electronics and Communications},
+volume = {191},
+pages = {155656},
+year = {2025},
+issn = {1434-8411},
+doi = {https://doi.org/10.1016/j.aeue.2024.155656},
+url = {https://www.sciencedirect.com/science/article/pii/S1434841124005429},
+author = {Khin Thandar Kyaw and Wiroonsak Santipach and Kritsada Mamat and Kamol Kaemarungsi and Kazuhiko Fukawa and Lunchakorn Wuttisittikulkij},
+keywords = {Beamforming, Optimization, Downlink, RIS, Channel covariance, MISO, Neural network, Unsupervised learning, Supervised learning},
+}
+```
+
+---
+<div align="justify">
+We propose an <b> unsupervised </b> beamforming neural network (BNN) and a <b> supervised </b> reconfigurable intelligent surface (RIS) convolutional neural network (CNN) to optimize transmit beamforming and RIS coefficients of multi-input single-output (MISO) downlink with RIS assistance. To avoid frequent beam updates, the proposed BNN and RIS CNN are based on slow-changing channel covariances and are different from most other neural networks that utilize channel instances. Numerical simulations show that for a small or moderate signal-to-noise ratio (SNR), the proposed BNN with RIS CNN can achieve a sum rate close to that of a system with optimal beams and RIS coefficients. Furthermore, the proposed scheme significantly reduces the computation time.
+</div>
 
 ---
 
