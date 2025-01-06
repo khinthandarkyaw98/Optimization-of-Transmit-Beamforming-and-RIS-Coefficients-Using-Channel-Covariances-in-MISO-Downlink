@@ -1,4 +1,4 @@
-# [Neural Network Based Optimization of Transmit Beamforming and RIS Coefficients Using Channel Covariances in MISO Downlink](https://doi.org/10.1016/j.aeue.2024.155656)
+# [Neural Network Based Optimization of Transmit Beamforming and RIS Coefficients Using Channel Covariances in MISO Downlink](https://authors.elsevier.com/a/1kNoM56FhxWMOr)
 
 <b>Authors</b>: Khin Thandar Kyaw, Wiroonsak Santipacha, Kritsada Mamat, Kamol Kaemarungsi, Kazuhiko Fukawa, Lunchakorn Wuttisittikulkij
 
@@ -33,7 +33,7 @@ We propose an <b> unsupervised </b> beamforming neural network (BNN) and a <b> s
 
 
 ## Implementation
-Please refer the [paper](https://doi.org/10.1016/j.aeue.2024.155656) for implementation details.
+Please refer the [link](https://authors.elsevier.com/a/1kNoM56FhxWMOr) for implementation details.
 
 ## Numerical Results
 <div align="center">
