@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > In the previous conference [paper](https://github.com/khinthandarkyaw98/BF-RIS-Channel-Covariance-DeepLearning), we optimized the transmit beamforming.
-> This is its extended journal version by optimizing both transmit beamforming and RIS coefficients with the use of channel covariances in MISO downlink.
+> This is its extended [journal](https://authors.elsevier.com/a/1kNoM56FhxWMOr) version by optimizing both transmit beamforming and RIS coefficients with the use of channel covariances in MISO downlink.
 
 ## Citation
 
