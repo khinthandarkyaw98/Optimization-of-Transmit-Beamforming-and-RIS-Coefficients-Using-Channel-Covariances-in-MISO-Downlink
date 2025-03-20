@@ -1,8 +1,8 @@
-# [Neural Network Based Optimization of Transmit Beamforming and RIS Coefficients Using Channel Covariances in MISO Downlink](https://authors.elsevier.com/a/1kNoM56FhxWMOr)
+# [Neural Network Based Optimization of Transmit Beamforming and RIS Coefficients Using Channel Covariances in MISO Downlink]([https://authors.elsevier.com/a/1kNoM56FhxWMOr](https://www.sciencedirect.com/science/article/pii/S1434841124005429))
 
 > [!IMPORTANT]
 > In the previous conference [paper](https://github.com/khinthandarkyaw98/BF-RIS-Channel-Covariance-DeepLearning), we optimized the transmit beamforming.
-> This is its extended [journal](https://authors.elsevier.com/a/1kNoM56FhxWMOr) version by optimizing both transmit beamforming and RIS coefficients with the use of channel covariances in MISO downlink.
+> This is its extended [journal]([https://authors.elsevier.com/a/1kNoM56FhxWMOr](https://www.sciencedirect.com/science/article/pii/S1434841124005429)) version by optimizing both transmit beamforming and RIS coefficients with the use of channel covariances in MISO downlink.
 
 ## Citation
 
